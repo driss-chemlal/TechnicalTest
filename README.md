@@ -28,6 +28,8 @@ The test automation framework is comprised of following tools and libraries.
 8. Git OR SVN: - Version Control
 9. Github or Local Git Server: - Git repository hosted server
 10. Eclipse: - Integrated Development Environment
+11. Browsers: - Google Chrome (Versión 102.0.5005.63), FireFox(101.0)
+12. Browser Drivers : chromedriver(compatible version with google chrome), geckodriver(compatible version with firefox)
 
 ---
 
